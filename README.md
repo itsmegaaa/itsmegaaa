@@ -1,32 +1,51 @@
-# <summary><strong>Hi there :wave: , I'm Gaaa!</strong></summary>
-A curious learner and self-taught software developer diving into mobile & web development.
-<p>
-    "Every expert was once a beginner — and I’m on my way there." :rocket:
-</p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=goonesmile&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+<h1 align="center">Hi there 👋, I'm Gaaa!</h1>
+<h3 align="center">Self-taught Software Developer | Mobile & Web Enthusiast</h3>
+
+<p align="center">
+  <em>"Every expert was once a beginner — and I’m on my way there." 🚀</em>
 </p>
 
-### <summary><strong>Tools & Tech Stack:</strong></summary>
-<p>
-    <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" />
-    <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white" />
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" />
-    <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white" />
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?logo=visual%20studio%20code&logoColor=white" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=goonesmile&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-### <summary><strong>Yosh!</strong></summary>
-<p>
-    - :cactus: Currently working on: <strong>SIRA (Sistem Informasi Riwayat Administrasi)</strong>.</br>
-    - :books: Passionate about: Full-stack development, mobile apps, and continuous learning.</br>
-    - :speech_balloon: Don't ask me about anything :laughing:.</br>
-    - :mailbox: How to reach me: <a href="mailto:rivalldy.ega@gmail.com">Email me!</a></br>
-<p>
-  
-### <summary><strong>Let's connect!</strong></summary>
-<a href="https://twitter.com/1paldii">
-  <img align="left" alt="Gaa's Twitter" width="20px" src="https://cdn.simpleicons.org/x/black/white"/>
-</a>
-<a href="https://www.instagram.com/pa1d.ii/">
-  <img align="left" alt="Gaa's Instagram" width="20px" src="https://cdn.simpleicons.org/instagram/black/white" />
-</a>
+<hr>
+
+### 🛠️ Tech Stack & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
+  <img src="https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
+</p>
+
+<hr>
+
+### 🚀 What I'm Up To
+- 🌵 **Currently working on:** **SIRA** *(Sistem Informasi Riwayat Administrasi)*
+- 💡 **Goal:** Build real-world cross-platform applications and improve multi-platform architectures.
+- 📚 **Passionate about:** Full-stack development, mobile apps, and continuous learning.
+- 💬 **Ask me about:** 🤫 *Don't ask me about anything* 😆
+
+<hr>
+
+### 📊 GitHub Metrics
+<p align="center">
+  <img src="https://raw.githubusercontent.com/goonesmile/goonesmile/main/github-metrics.svg" alt="GitHub Metrics" width="800">
+</p>
+
+<hr>
+
+### 📫 Let's Connect!
+<p align="center">
+  <a href="mailto:rivalldy.ega@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://twitter.com/1paldii">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://www.instagram.com/pa1d.ii/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
