@@ -18,7 +18,6 @@ A curious learner and self-taught software developer diving into mobile & web de
 ### <summary><strong>Yosh!</strong></summary>
 <p>
     - :cactus: Currently working on: <strong>SIRA (Sistem Informasi Riwayat Administrasi)</strong>.</br>
-    - :bulb: Goal: Build real-world cross-platform applications and improve multi-platform architectures.</br>
     - :books: Passionate about: Full-stack development, mobile apps, and continuous learning.</br>
     - :speech_balloon: Don't ask me about anything :laughing:.</br>
     - :mailbox: How to reach me: <a href="mailto:rivalldy.ega@gmail.com">Email me!</a></br>
