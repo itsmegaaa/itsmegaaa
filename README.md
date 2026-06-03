@@ -30,13 +30,6 @@
 
 <hr>
 
-### 📊 GitHub Metrics
-<p align="center">
-  <img src="https://raw.githubusercontent.com/goonesmile/goonesmile/main/github-metrics.svg" alt="GitHub Metrics" width="800">
-</p>
-
-<hr>
-
 ### 📫 Let's Connect!
 <p align="center">
   <a href="mailto:rivalldy.ega@gmail.com">
