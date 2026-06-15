@@ -24,11 +24,11 @@
 <hr>
 
 ### 🚀 What I'm Up To
-- 🌵 **Currently building:** **PDFVault** (Self-hosted PDF Suite), **SIRA** *(Sistem Informasi Riwayat Administrasi)* & **SmartKas**.
-- 🧠 **Currently learning:** Artificial Intelligence (Scikit-Learn, Keras, TensorFlow).
-- 💡 **Goal:** Build real-world cross-platform applications, multi-platform architectures, dan otomatisasi data.
-- 📚 **Passionate about:** Full-stack development, Google Sheets Sync, Telegram Bot Webhooks, dan UI/UX (Glassmorphism).
-- 💬 **Ask me about:** 🤫 *Don't ask me about anything* 😆
+- 🔭 **Currently building:** **PDFVault** (Self-hosted PDF Suite), **SIRA** (Sistem Informasi Riwayat Administrasi), and **SmartKas**.
+- 🌱 **Currently learning:** Advanced Full-stack Architectures, Artificial Intelligence (TensorFlow), and Performance Optimization.
+- 🎯 **Goals:** Delivering scalable, real-world web applications and optimizing data automation workflows.
+- ⚡ **Passionate about:** Node.js backend development, modern frontend ecosystems, and creating seamless UI/UX.
+- 💬 **Ask me about:** JavaScript, React, Node.js, and web application development.
 
 <hr>
 
