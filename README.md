@@ -6,13 +6,15 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=goonesmile&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=itsmegaaa&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <hr>
 
 ### 🛠️ Tech Stack & Tools
 <p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
@@ -24,7 +26,7 @@
 <hr>
 
 ### 🚀 What I'm Up To
-- 🌵 **Currently building:** **SIRA** *(Sistem Informasi Riwayat Administrasi)* & **SmartKas**.
+- 🌵 **Currently building:** **PDFVault** (Self-hosted PDF Suite), **SIRA** *(Sistem Informasi Riwayat Administrasi)* & **SmartKas**.
 - 🧠 **Currently learning:** Artificial Intelligence (Scikit-Learn, Keras, TensorFlow).
 - 💡 **Goal:** Build real-world cross-platform applications, multi-platform architectures, dan otomatisasi data.
 - 📚 **Passionate about:** Full-stack development, Google Sheets Sync, Telegram Bot Webhooks, dan UI/UX (Glassmorphism).
