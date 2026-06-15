@@ -45,4 +45,7 @@
   <a href="https://www.instagram.com/pa1d.ii/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
+  <a href="https://tako.id/itsmega">
+    <img src="https://img.shields.io/badge/Donate-Tako.id-0078d7?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Donate with Tako" />
+  </a>
 </p>
